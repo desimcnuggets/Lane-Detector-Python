@@ -1,3 +1,5 @@
+##USE JUPYTER NOTEBOOK##
+
 There is 1 input for this code which would be the test image. 
 
 newimg = cv2.imread('test1.jpg', 1)
